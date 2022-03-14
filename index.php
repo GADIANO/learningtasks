@@ -2,13 +2,13 @@
 <html>
 <head>
 <title> My Home Page </title>
-< /head>
+</head>
 <body> </body>
 <hi> Welcome to my Website! - Roed Krestele S. Gadiano </hi>
 <ul></ul>
 <li><a href="index.php">HOME</a></li>
       <li><a href="recipes.html">Learning Task 2</a></li>
       <li><a href="LT3.html">Learning Task 3</a></li>
- < /ul>
-  < /body>
-< /html>
+ </ul>
+  </body>
+</html>
