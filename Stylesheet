@@ -1,0 +1,99 @@
+#wrapper{
+    width: 600px;
+    height: 750px;
+    border: 20px;
+    margin: 0 auto;
+           }
+#box-one{
+    width: 400px;
+    height: 450 px;
+    border: 2px solid darkseagreen;
+    margin: 20 px;
+    padding: 10px;
+    float: left;
+    background-color: #fff8dc;
+}
+#box-two{
+    width: 400px;
+    height: 450 px;
+    border: 2px solid darkseagreen;
+    margin: 20 px;
+    padding: 10px;
+    float: left;
+    background-color: #f0ead6;
+}
+#box-three{
+    width: 400px;
+    height: 450 px;
+    border: 2px solid darkseagreen;
+    margin: 20 px;
+    padding: 10px;
+    float: left;
+    background-color: #f5f5dc;
+}
+#box-four{
+    width: 400px;
+    height: 450 px;
+    border: 2px solid darkseagreen;
+    margin: 20 px;
+    padding: 10px;
+    float: left;
+    background-color: #f3f3df;
+}
+#box-five{
+    width: 400px;
+    height: 450 px;
+    border: 2px solid darkseagreen;
+    margin: 20 px;
+    padding: 10px;
+    float: left;
+    background-color: #f8f8d9;
+}
+#box-six{
+    width: 400px;
+    height: 450 px;
+    border: 2px solid darkseagreen;
+    margin: 20 px;
+    padding: 10px;
+    float: left;
+    background-color: #fff8e7;
+}
+
+#box-seven{
+    width: 400px;
+    height: 450 px;
+    border: 2px solid darkseagreen;
+    margin: 20 px;
+    padding: 10px;
+    float: left;
+    background-color: #ffffe0;
+}
+
+#box-eight{
+    width: 400px;
+    height: 450 px;
+    border: 2px solid darkseagreen;
+    margin: 20 px;
+    padding: 10px;
+    float: left;
+    background-color: #f9ffe3;
+}
+#box-nine{
+    width: 400px;
+    height: 450 px;
+    border: 2px solid darkseagreen;
+    margin: 20 px;
+    padding: 10px;
+    float: left;
+    background-color: #e0e094;
+}
+#box-ten{
+    width: 400px;
+    height: 450 px;
+    border: 2px solid darkseagreen;
+    margin: 20 px;
+    padding: 10px;
+    float: left;
+    background-color: beige;
+}
+
