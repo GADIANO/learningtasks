@@ -1,0 +1,49 @@
+body{
+                background-image: url(BG.jpg);
+               
+                background-size: cover;
+                background-position: center;
+                
+            }
+               wrapper{
+               width: 2048px;
+               min-height: 1024px;
+               margin: 0 auto;
+               padding: 30px;
+               border: 2px solid transparent;
+            }
+               r1{
+                font-size: 100px;
+                color: blanchedalmond;
+                font-family: 'Sansita Swashed', sans-serif;
+                text-align: center;
+                float: center;
+                text-shadow: 5px 5px black;
+                     position: absolute;
+                   top: 400;
+                   right: 1000;
+                   
+            }
+                r2{ 
+                font-size: 80px;
+                color: blanchedalmond;
+                font-family: 'Lemonada', sans-serif;
+                text-align: center;
+                float: center;
+                text-shadow: 5px 5px black;
+                   position: absolute;
+                   top: 490;
+                   right: 200;
+}
+               r3{
+                font-size: 70px;
+                color: white;
+                font-family: 'Bebas Neue', sans-serif;
+                text-align: center;
+                float: right;
+                text-shadow: 5px 5px black; 
+                position: absolute;
+                   top: 700;
+                   right: 150;
+}
+              
